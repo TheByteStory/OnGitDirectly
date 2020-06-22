@@ -1,1 +1,2 @@
 Do this on git directly
+Can be done on command line also
